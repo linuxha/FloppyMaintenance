@@ -1,4 +1,13 @@
-### Hi there 👋
+### This is the source project for the linux version of FloppyMaintenance.
+
+  Not all features are current available. This version does not support the 
+  built in editor like the Windows version does. That is because the Windows
+  version uses the ActiPro Syntac editor that requires a license to develop 
+  with.
+  
+  The export files for all diskette formats works. The only import that 
+  works reliably is the import of FLEX files. The FLEX Randon file is not 
+  supported for import.
 
 <!--
 **mevenson/mevenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
